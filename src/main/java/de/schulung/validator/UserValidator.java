@@ -1,4 +1,4 @@
-package de.schulung.calculator;
+package de.schulung.validator;
 
 public class UserValidator {
 
